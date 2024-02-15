@@ -43,7 +43,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/Olamiposi-cloud-coder/faq_accordion.git]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://faq-accordion-seven-lemon.vercel.app/]
 
 ## My process
 
